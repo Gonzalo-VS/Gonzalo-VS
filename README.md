@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <h1>Hola muy buenas :D </h1>
+    <h1>Hala Madrid! </h1>
   </body>
 </html>
